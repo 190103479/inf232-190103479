@@ -1,0 +1,5 @@
+This is code for working with GIT:
+git status
+git add
+git commit -m "Something"
+git push -u origin main
